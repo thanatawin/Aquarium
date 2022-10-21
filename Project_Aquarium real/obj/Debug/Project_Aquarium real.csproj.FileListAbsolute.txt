@@ -1,0 +1,37 @@
+D:\C#\Project_Aquarium real\Project_Aquarium real\bin\Debug\Project_Aquarium real.exe.config
+D:\C#\Project_Aquarium real\Project_Aquarium real\bin\Debug\Project_Aquarium real.exe
+D:\C#\Project_Aquarium real\Project_Aquarium real\bin\Debug\Project_Aquarium real.pdb
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium real.csproj.AssemblyReference.cache
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium real.csproj.SuggestedBindingRedirects.cache
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Form1.resources
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Properties.Resources.resources
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium real.csproj.GenerateResource.cache
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium real.csproj.CoreCompileInputs.cache
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium real.exe
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium real.pdb
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Form2.resources
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Form3.resources
+D:\C#\Project_Aquarium real\Project_Aquarium real\bin\Debug\MySql.Data.dll
+D:\C#\Project_Aquarium real\Project_Aquarium real\bin\Debug\Google.Protobuf.dll
+D:\C#\Project_Aquarium real\Project_Aquarium real\bin\Debug\ZstdNet.dll
+D:\C#\Project_Aquarium real\Project_Aquarium real\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#\Project_Aquarium real\Project_Aquarium real\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\Project_Aquarium real\Project_Aquarium real\bin\Debug\Ubiety.Dns.Core.dll
+D:\C#\Project_Aquarium real\Project_Aquarium real\bin\Debug\System.Memory.dll
+D:\C#\Project_Aquarium real\Project_Aquarium real\bin\Debug\System.Buffers.dll
+D:\C#\Project_Aquarium real\Project_Aquarium real\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#\Project_Aquarium real\Project_Aquarium real\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#\Project_Aquarium real\Project_Aquarium real\bin\Debug\MySql.Data.xml
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium real.exe.config
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Form4.resources
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium real.csproj.CopyComplete
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Form10.resources
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Form11.resources
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Form12.resources
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Form5.resources
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Form6.resources
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Form7.resources
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Form8.resources
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Form9.resources
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Form13.resources
+D:\C#\Project_Aquarium real\Project_Aquarium real\obj\Debug\Project_Aquarium_real.Form14.resources
